@@ -1,0 +1,527 @@
+.background-icon28 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 8px 8px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-44,
+.special-edition {
+  position: relative;
+  line-height: 22px;
+}
+.special-edition {
+  line-height: 18px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 95.5px;
+}
+.heading-54 {
+  border-radius: 24px;
+  background-color: #ede6f0;
+  flex-direction: row;
+  padding: 2px 11px 4px 12px;
+  white-space: nowrap;
+  font-size: 13.3px;
+  color: #48096c;
+}
+.card-items,
+.card-names,
+.heading-54,
+.link7 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.card-names {
+  flex-direction: column;
+  gap: 9px;
+}
+.card-items,
+.link7 {
+  flex-direction: row;
+  padding: 0 12px;
+}
+.link7 {
+  height: 260px;
+  width: 256px;
+  margin: 0 !important;
+  position: absolute;
+  top: 40px;
+  left: 72px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: transparent;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 0 0 29px;
+  box-sizing: border-box;
+  gap: 17px;
+}
+.background-icon29 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 8px 8px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-45 {
+  position: relative;
+  line-height: 22px;
+}
+.heading-4-oh-baby-smart-egi-wrapper,
+.link8 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 12px;
+}
+.link8 {
+  height: 260px;
+  width: 256px;
+  margin: 0 !important;
+  position: absolute;
+  top: 40px;
+  left: 1032px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: transparent;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 0 0 62px;
+  box-sizing: border-box;
+  gap: 17px;
+}
+.background-icon30 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 8px 8px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-46 {
+  position: relative;
+  line-height: 22px;
+}
+.heading-4-teachers-smart-egi-wrapper,
+.link9 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 12px;
+}
+.link9 {
+  height: 260px;
+  width: 256px;
+  margin: 0 !important;
+  position: absolute;
+  top: 364px;
+  left: 72px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: transparent;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 0 0 62px;
+  box-sizing: border-box;
+  gap: 17px;
+}
+.background-icon31 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 8px 8px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-47 {
+  width: 279px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.heading-4-prezzee-kids-smart-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 12px;
+}
+.background-icon32,
+.link10 {
+  background-color: transparent;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.link10 {
+  height: 260px;
+  width: 256px;
+  margin: 0 !important;
+  position: absolute;
+  top: 364px;
+  left: 392px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 62px;
+  box-sizing: border-box;
+  gap: 17px;
+}
+.background-icon32 {
+  border: 0;
+  outline: 0;
+  align-self: stretch;
+  height: 159px;
+  position: relative;
+  border-radius: 8px 8px 0 0;
+  max-width: 100%;
+  object-fit: cover;
+}
+.heading-48,
+.top-seller {
+  position: relative;
+  line-height: 22px;
+}
+.top-seller {
+  text-decoration: none;
+  line-height: 18px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  min-width: 64px;
+}
+.heading-55 {
+  border-radius: 24px;
+  background-color: #ede6f0;
+  flex-direction: row;
+  padding: 2px 11px 4px 12px;
+  white-space: nowrap;
+  font-size: 13.1px;
+  color: #48096c;
+}
+.heading-4-sephora-gift-card-parent,
+.heading-55,
+.link-inner2,
+.link11 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.heading-4-sephora-gift-card-parent {
+  flex-direction: column;
+  gap: 9px;
+}
+.link-inner2,
+.link11 {
+  flex-direction: row;
+  padding: 0 12px;
+}
+.link11 {
+  width: 256px;
+  margin: 0 !important;
+  position: absolute;
+  top: 364px;
+  left: 1352px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: transparent;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 0 0 29px;
+  box-sizing: border-box;
+  gap: 17px;
+}
+.background-icon33 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 8px 8px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-49 {
+  position: relative;
+  line-height: 22px;
+}
+.heading-4-aries-season-smart-wrapper,
+.link12 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 13px 0 12px;
+}
+.link12 {
+  height: 260px;
+  width: 256px;
+  margin: 0 !important;
+  position: absolute;
+  top: 688px;
+  left: 712px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: transparent;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 0 0 62px;
+  box-sizing: border-box;
+  gap: 17px;
+}
+.background-icon34 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 8px 8px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-410 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 115px;
+}
+.heading-4-etsy-egift-card-wrapper,
+.link13 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 12px;
+}
+.link13 {
+  height: 260px;
+  width: 256px;
+  margin: 0 !important;
+  position: absolute;
+  top: 688px;
+  left: 1032px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: transparent;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 0 0 62px;
+  box-sizing: border-box;
+  gap: 17px;
+}
+.background-icon35 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 8px 8px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-411 {
+  position: relative;
+  line-height: 22px;
+}
+.heading-4-fandango-gift-card-wrapper,
+.link14 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 12px;
+}
+.link14 {
+  height: 260px;
+  width: 256px;
+  margin: 0 !important;
+  position: absolute;
+  top: 688px;
+  left: 1352px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: transparent;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 0 0 62px;
+  box-sizing: border-box;
+  gap: 17px;
+}
+.background-icon36 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 8px 8px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-412 {
+  position: relative;
+  line-height: 22px;
+}
+.heading-4-i-choose-you-smart-wrapper,
+.link15 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 12px;
+}
+.link15 {
+  height: 260px;
+  width: 256px;
+  margin: 0 !important;
+  position: absolute;
+  top: 1012px;
+  left: 1032px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: transparent;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 0 0 62px;
+  box-sizing: border-box;
+  gap: 17px;
+}
+.background-icon37 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 8px 8px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-413 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 121px;
+}
+.heading-4-lego-egift-card-wrapper,
+.link16 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 12px;
+}
+.link16 {
+  height: 260px;
+  width: 256px;
+  margin: 0 !important;
+  position: absolute;
+  top: 1012px;
+  left: 1352px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: transparent;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 0 0 62px;
+  box-sizing: border-box;
+  gap: 17px;
+}
+.background-icon38 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 8px 8px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-414 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 113px;
+}
+.heading-4-aerie-gift-card-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 12px;
+}
+.cards,
+.link17 {
+  display: flex;
+  box-sizing: border-box;
+}
+.link17 {
+  height: 260px;
+  width: 256px;
+  margin: 0 !important;
+  position: absolute;
+  top: 1336px;
+  left: 1192px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: transparent;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 62px;
+  gap: 17px;
+}
+.cards {
+  align-self: stretch;
+  height: 1636px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 0;
+  position: relative;
+  gap: 64px;
+  text-align: left;
+  font-size: 16px;
+  color: #1e1e1e;
+  font-family: Inter;
+}

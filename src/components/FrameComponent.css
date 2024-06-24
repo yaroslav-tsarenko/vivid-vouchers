@@ -1,0 +1,298 @@
+.header-child {
+  height: 50px;
+  width: 985px;
+  position: relative;
+  border-radius: 5px;
+  background-color: #cadcfc;
+  flex-shrink: 0;
+  display: none;
+}
+.product {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 70px;
+  z-index: 1;
+}
+.product-wrapper {
+  width: 253px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+}
+.price,
+.quantity {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 46px;
+  z-index: 1;
+}
+.quantity {
+  min-width: 77px;
+}
+.price-parent {
+  width: 275px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.total {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 44px;
+  z-index: 1;
+}
+.header,
+.header-parent {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.header {
+  border-radius: 5px;
+  background-color: #cadcfc;
+  overflow-x: auto;
+  flex-direction: row;
+  padding: 15px 38px 13px;
+  gap: 136px;
+}
+.header-parent {
+  flex-direction: column;
+  gap: 36px;
+  max-width: 100%;
+}
+.frame-child {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #d9d9d9;
+  box-sizing: border-box;
+}
+.line-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 35px;
+  max-width: 100%;
+}
+.frame-item {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #d9d9d9;
+  box-sizing: border-box;
+}
+.bass-pro-shops-usjpg-icon2 {
+  height: 78.7px;
+  width: 127px;
+  position: relative;
+  border-radius: 8px 8px 0 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.travel-giftcard,
+.worth-usd-400 {
+  width: 179px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+}
+.travel-giftcard-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  gap: 8px;
+  min-width: 167px;
+}
+.b,
+.credits1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+}
+.b {
+  min-width: 74px;
+  white-space: nowrap;
+}
+.credits1 {
+  min-width: 89px;
+}
+.parent1 {
+  width: 180px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.icon-plus1 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.icon-plus-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.cart-item-daily {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 12px;
+}
+.frame-input {
+  margin: 0;
+  height: 19px;
+  width: 16px;
+}
+.frame-parent5 {
+  border-radius: 8px;
+  background-color: #fff;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7px;
+  gap: 26px;
+}
+.frame-formcontrol {
+  align-self: stretch;
+  height: 38px;
+  font-family: Inter;
+  font-weight: 700;
+  font-size: 18px;
+  color: #fff;
+  width: auto;
+}
+.frame-parent4 {
+  width: 205px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 88px 0 0;
+  box-sizing: border-box;
+  gap: 15px;
+}
+.cart-item-quantity {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 74px;
+  white-space: nowrap;
+}
+.bass-pro-shops-usjpg-group,
+.line-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.bass-pro-shops-usjpg-group {
+  width: 903px;
+  flex-direction: row;
+  gap: 15px;
+}
+.line-group {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 35px;
+}
+.cart-actions-separator {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #d9d9d9;
+  box-sizing: border-box;
+}
+.button10,
+.button9 {
+  height: 54px;
+  width: 133px;
+}
+.button10 {
+  width: 146px;
+}
+.button-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.cart-actions-separator-parent,
+.frame-parent3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cart-actions-separator-parent {
+  align-self: stretch;
+  gap: 35px;
+}
+.frame-parent3 {
+  flex: 1;
+  gap: 55px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: Inter;
+}
+@media screen and (max-width: 1200px) {
+  .header {
+    gap: 68px;
+  }
+}
+@media screen and (max-width: 825px) {
+  .header-parent {
+    gap: 18px;
+  }
+  .line-parent {
+    gap: 17px;
+  }
+  .bass-pro-shops-usjpg-group {
+    flex-wrap: wrap;
+  }
+  .cart-actions-separator-parent,
+  .line-group {
+    gap: 17px;
+  }
+  .frame-parent3 {
+    gap: 27px;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .header {
+    gap: 34px;
+  }
+  .button-group {
+    flex-wrap: wrap;
+  }
+}

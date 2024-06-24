@@ -1,0 +1,148 @@
+.our-vividvouchers-promise {
+  position: relative;
+  line-height: 150%;
+  text-transform: uppercase;
+}
+.heading-24 {
+  position: relative;
+  font-size: 37.7px;
+  letter-spacing: -0.02px;
+  line-height: 50px;
+  font-weight: 600;
+  color: #1e1e1e;
+  display: inline-block;
+  max-width: 100%;
+}
+.with-online-gift {
+  line-height: 135%;
+}
+.with-online-gift-cards-from-10 {
+  margin: 0;
+}
+.nordstrom-barnes {
+  line-height: 24px;
+}
+.nordstrom-barnes-noble-and {
+  margin: 0;
+  font-size: 15.1px;
+}
+.with-online-gift-container {
+  position: relative;
+  color: #4b4b4b;
+  font-size: 16px;
+}
+.promise-description,
+.promise-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.promise-description {
+  gap: 12px;
+}
+.promise-info {
+  padding: 111.5px 0 0;
+  box-sizing: border-box;
+  min-width: 574px;
+}
+.image-7-icon1,
+.image-8-icon1 {
+  align-self: stretch;
+  height: 100px;
+  position: relative;
+  border-radius: 10px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.image-8-icon1 {
+  border-radius: 20px;
+}
+.phone-overlaypng1 {
+  height: 538px;
+  width: 319px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 118px 40px 118px 119px;
+  box-sizing: border-box;
+  gap: 69px;
+  background-image: url(/public/phone-overlaypng@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 319px;
+}
+.promise,
+.promise-content {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.promise-content {
+  justify-content: flex-start;
+  gap: 64px;
+}
+.promise {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px 80px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 14px;
+  color: #00246b;
+  font-family: Inter;
+}
+@media screen and (max-width: 1225px) {
+  .phone-overlaypng1,
+  .promise-info {
+    flex: 1;
+  }
+  .promise-content {
+    flex-wrap: wrap;
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 850px) {
+  .heading-24 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .promise-info {
+    min-width: 100%;
+  }
+  .phone-overlaypng1 {
+    padding-top: 77px;
+    padding-bottom: 77px;
+    box-sizing: border-box;
+  }
+  .promise-content {
+    gap: 16px;
+  }
+  .promise {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-24 {
+    font-size: 23px;
+    line-height: 30px;
+  }
+  .promise-info {
+    padding-top: 72px;
+    box-sizing: border-box;
+  }
+  .phone-overlaypng1 {
+    gap: 34px;
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+}

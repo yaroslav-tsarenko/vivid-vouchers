@@ -1,0 +1,67 @@
+import { Button } from "@mui/material";
+import PropTypes from "prop-types";
+import "./Heade.css";
+
+const Heade = ({ className = "" }) => {
+  return (
+    <header className={`heade2 ${className}`}>
+      <div className="mask-group-container">
+        <img
+          className="mask-group-icon2"
+          loading="lazy"
+          alt=""
+          src="/mask-group@2x.png"
+        />
+        <a className="vivid-vouchers2">Vivid Vouchers</a>
+      </div>
+      <div className="nav-list2">
+        <a className="item-link33">US eGift Cards</a>
+        <a className="item-link34">International eGift Cards</a>
+        <a className="item-link35">VividVouchers Business</a>
+        <a className="item-link36">Customer Care</a>
+        <a className="item-link37">About Us</a>
+        <a className="item-link38">Gift Tracker</a>
+      </div>
+      <div className="user-buttons">
+        <Button
+          className="button15"
+          disableElevation
+          variant="contained"
+          sx={{
+            textTransform: "none",
+            color: "#cadcfc",
+            fontSize: "15.3",
+            background: "#00246b",
+            borderRadius: "4px",
+            "&:hover": { background: "#00246b" },
+            height: 42,
+          }}
+        >
+          Sign up
+        </Button>
+        <Button
+          className="button16"
+          disableElevation
+          variant="outlined"
+          sx={{
+            textTransform: "none",
+            color: "#00246b",
+            fontSize: "15.1",
+            borderColor: "#cadcfc",
+            borderRadius: "4px",
+            "&:hover": { borderColor: "#cadcfc" },
+            width: 93,
+          }}
+        >
+          Log in
+        </Button>
+      </div>
+    </header>
+  );
+};
+
+Heade.propTypes = {
+  className: PropTypes.string,
+};
+
+export default Heade;

@@ -1,0 +1,137 @@
+.mask-group-icon2 {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.vivid-vouchers2 {
+  text-decoration: none;
+  position: relative;
+  line-height: 28px;
+  font-weight: 600;
+  color: inherit;
+  white-space: nowrap;
+}
+.mask-group-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 9px 0 0;
+  gap: 12px;
+}
+.item-link33,
+.item-link34,
+.item-link35,
+.item-link36,
+.item-link37,
+.item-link38 {
+  text-decoration: none;
+  position: relative;
+  line-height: 16px;
+  color: inherit;
+  white-space: nowrap;
+}
+.item-link33 {
+  display: inline-block;
+  min-width: 107px;
+}
+.item-link34,
+.item-link35,
+.item-link36,
+.item-link37,
+.item-link38 {
+  font-size: 15.5px;
+}
+.item-link35,
+.item-link36,
+.item-link37,
+.item-link38 {
+  font-size: 15px;
+}
+.item-link36,
+.item-link37,
+.item-link38 {
+  font-size: 15.4px;
+  display: inline-block;
+  min-width: 110px;
+}
+.item-link37,
+.item-link38 {
+  font-size: 14.8px;
+  min-width: 65.2px;
+}
+.item-link38 {
+  font-size: 14.9px;
+  min-width: 84px;
+}
+.nav-list2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24px 31px 24px 32px;
+  box-sizing: border-box;
+  gap: 31.9px;
+  max-width: 100%;
+  font-size: 15.1px;
+  color: #313e49;
+}
+.button15 {
+  height: 42px;
+  flex: 1;
+}
+.button16 {
+  align-self: stretch;
+  width: 93px;
+}
+.heade2,
+.user-buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.user-buttons {
+  height: 42px;
+  width: 229px;
+  justify-content: flex-end;
+  gap: 32px;
+}
+.heade2 {
+  align-self: stretch;
+  background-color: #fff;
+  justify-content: space-between;
+  padding: 18px 120px;
+  box-sizing: border-box;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  max-width: 100%;
+  gap: 20px;
+  text-align: left;
+  font-size: 21.3px;
+  color: #00246b;
+  font-family: Inter;
+}
+@media screen and (max-width: 1525px) {
+  .nav-list2 {
+    display: none;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .heade2 {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .nav-list2 {
+    gap: 16px;
+  }
+  .heade2 {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+}

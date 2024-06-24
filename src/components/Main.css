@@ -1,0 +1,148 @@
+.mask-group-icon {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.vivid-vouchers {
+  text-decoration: none;
+  position: relative;
+  line-height: 28px;
+  font-weight: 600;
+  color: inherit;
+  white-space: nowrap;
+}
+.mask-group-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 9px 0 0;
+  gap: 12px;
+}
+.item-link10,
+.item-link11,
+.item-link12,
+.item-link7,
+.item-link8,
+.item-link9 {
+  text-decoration: none;
+  position: relative;
+  line-height: 16px;
+  color: inherit;
+  white-space: nowrap;
+}
+.item-link7 {
+  display: inline-block;
+  min-width: 107px;
+}
+.item-link10,
+.item-link11,
+.item-link12,
+.item-link8,
+.item-link9 {
+  font-size: 15.5px;
+}
+.item-link10,
+.item-link11,
+.item-link12,
+.item-link9 {
+  font-size: 15px;
+}
+.item-link10,
+.item-link11,
+.item-link12 {
+  font-size: 15.4px;
+  display: inline-block;
+  min-width: 110px;
+}
+.item-link11,
+.item-link12 {
+  font-size: 14.8px;
+  min-width: 65.2px;
+}
+.item-link12 {
+  font-size: 14.9px;
+  min-width: 84px;
+}
+.nav-list {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24px 31px 24px 32px;
+  box-sizing: border-box;
+  gap: 31.9px;
+  max-width: 100%;
+  font-size: 15.1px;
+  color: #313e49;
+}
+.button4 {
+  height: 42px;
+  flex: 1;
+}
+.button5 {
+  align-self: stretch;
+  width: 93px;
+}
+.heade,
+.main,
+.user {
+  display: flex;
+  flex-direction: row;
+}
+.user {
+  height: 42px;
+  width: 229px;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 32px;
+}
+.heade,
+.main {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.heade {
+  flex: 1;
+  background-color: #fff;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 120px;
+  gap: 20px;
+  text-align: left;
+  font-size: 21.3px;
+  color: #00246b;
+  font-family: Inter;
+}
+.main {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 32px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+}
+@media screen and (max-width: 1525px) {
+  .nav-list {
+    display: none;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .heade {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .nav-list {
+    gap: 16px;
+  }
+  .heade {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+}
